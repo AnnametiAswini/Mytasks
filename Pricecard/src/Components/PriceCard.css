@@ -1,0 +1,25 @@
+.price-card {
+    width:250px;
+    height:355px;
+    border:1px solid black;
+    background-color: white;
+    border-radius:12px;
+    position: relative;
+   margin:auto;
+
+}
+.Btn {
+    width: 130px;
+    position: absolute;
+    left: 60px;
+    background-color: #00bfff;
+    border-radius:33px;
+    height:30px;
+}
+h5 {
+    text-align: center;
+}
+ul {
+    position: relative;
+    left: -20px;
+}

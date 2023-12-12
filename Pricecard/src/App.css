@@ -1,0 +1,18 @@
+
+*{
+  list-style-type: none;
+}
+
+
+.price-cards {
+  display: flex;
+  margin:auto;
+  gap:10px;
+  width:73%;
+  height:438px;
+  background-color: #4d4dff;
+}
+
+h1,h2{
+  text-align: center;
+}
